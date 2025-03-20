@@ -1,5 +1,5 @@
 # TIP-Eval
-This worksheet defines the criteria, requirements and formula for evaluating a Threat Intelligence Platform (TIP). 
+This workbook defines the criteria, requirements and score card for evaluating a Threat Intelligence Platform (TIP). 
 
 **_Requirements Sheet (Success Criteria)_**
 
