@@ -1,7 +1,7 @@
 # TIP-Eval
 This worksheet defines the criteria, requirements and formula for evaluating a Threat Intelligence Platform (TIP). 
 
-Requirements Sheet (Success Criteria)
+**_Requirements Sheet (Success Criteria)_**
 
 The success criteria are divided into five sections, aligning loosely with the five phases of the Intelligence Cycle: Planning, Collection, Processing, Enrichment, and Dissemination.
 
@@ -11,7 +11,7 @@ The success criteria are divided into five sections, aligning loosely with the f
 - Enrichment measures the platform’s capability to automatically retrieve and associate relevant contextual data (e.g., WHOIS, passive DNS, rules).
 - Dissemination evaluates the platform’s ability to integrate with and push data to existing security appliances (e.g., firewalls, endpoint protection, IDS) and the organization's SaaS environments.
 
-Technical Score Card
+**_Technical Score Card_**
 
 The Technical Scorecard is designed to evaluate a Threat Intelligence Platform's (TIP) ability to meet the success criteria outlined in the Requirements Sheet. Each major requirement is assigned a score, and if a requirement has sub-requirements, its overall score is calculated as the average of all sub-requirement scores.
 
@@ -21,4 +21,4 @@ Scoring follows a standardized scale:
 - 0.5: Partially meets the requirement
 - 1: Fully meets the requirement
 
-Before conducting an evaluation, personnel should determine if any requirements warrant a higher weighting. When using the xls, adjust the points cell by applying a multiplier of 2 (i.e., [cell]*2). Ensure that the adjustments are applied consistently across all TIP columns, not just for a single TIP (e.g., do not update only [TIP 1]).
+Before conducting an evaluation, personnel should determine if any requirements warrant a higher weighting. When using the xls, adjust the points cell by applying a multiplier of 2 (i.e., =A1*2 where A1 is the cell containing a point that should be weighted). Ensure that the adjustments are applied consistently across all TIP columns, not just for a single TIP (e.g., do not update only [TIP 1]).
