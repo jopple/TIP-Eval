@@ -256,5 +256,5 @@
 | Dissemination | Integration & Automation | FR 5.25 Have audit trail for intelligence integration. | 0 | 0 | 0 | 0 |
 | Dissemination | Integration & Automation | FR 5.26 Integration with workflow automation systems (i.e. Demisto, CyberSponse, Phantom) | 0 | 0 | 0 | 0 |
 | Dissemination | Metrics | FR 5.27 Report high level metrics useful for executive/senior level staff | 0 | 0 | 0 | 0 |
-| Dissemination | Metrics |  | Score | Points | Score | Points |
-| Dissemination | Metrics |  | 0 | 0 | 0 | 0 |
+|  |  |  | Score | Points | Score | Points |
+|  |  |  | 0 | 0 | 0 | 0 |
