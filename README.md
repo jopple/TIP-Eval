@@ -21,4 +21,4 @@ Scoring follows a standardized scale:
 - 0.5: Partially meets the requirement
 - 1: Fully meets the requirement
 
-Before conducting an evaluation, personnel should determine if any requirements warrant a higher weighting. For these, adjust the points cell by applying a multiplier of 2 (i.e., [point value] * 2 = weighted point value). Ensure that the adjustments are applied consistently across all TIP columns, not just for a single TIP (e.g., do not update only [TIP 1]).
+Before conducting an evaluation, personnel should determine if any requirements warrant a higher weighting. When using the xls, adjust the points cell by applying a multiplier of 2 (i.e., [cell]*2). Ensure that the adjustments are applied consistently across all TIP columns, not just for a single TIP (e.g., do not update only [TIP 1]).
